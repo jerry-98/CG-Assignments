@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include<qpainter.h>
 #include<qpicture.h>
-
+//I made some changes to this file ny Abhishek Bhargav
 namespace Ui {
 class MainWindow;
 }
